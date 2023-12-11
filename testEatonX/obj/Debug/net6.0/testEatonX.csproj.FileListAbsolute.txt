@@ -1,0 +1,14 @@
+C:\Users\emore\source\repos\testEatonX\testEatonX\bin\Debug\net6.0\testEatonX.exe
+C:\Users\emore\source\repos\testEatonX\testEatonX\bin\Debug\net6.0\testEatonX.deps.json
+C:\Users\emore\source\repos\testEatonX\testEatonX\bin\Debug\net6.0\testEatonX.runtimeconfig.json
+C:\Users\emore\source\repos\testEatonX\testEatonX\bin\Debug\net6.0\testEatonX.dll
+C:\Users\emore\source\repos\testEatonX\testEatonX\bin\Debug\net6.0\testEatonX.pdb
+C:\Users\emore\source\repos\testEatonX\testEatonX\obj\Debug\net6.0\testEatonX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emore\source\repos\testEatonX\testEatonX\obj\Debug\net6.0\testEatonX.AssemblyInfoInputs.cache
+C:\Users\emore\source\repos\testEatonX\testEatonX\obj\Debug\net6.0\testEatonX.AssemblyInfo.cs
+C:\Users\emore\source\repos\testEatonX\testEatonX\obj\Debug\net6.0\testEatonX.csproj.CoreCompileInputs.cache
+C:\Users\emore\source\repos\testEatonX\testEatonX\obj\Debug\net6.0\testEatonX.dll
+C:\Users\emore\source\repos\testEatonX\testEatonX\obj\Debug\net6.0\refint\testEatonX.dll
+C:\Users\emore\source\repos\testEatonX\testEatonX\obj\Debug\net6.0\testEatonX.pdb
+C:\Users\emore\source\repos\testEatonX\testEatonX\obj\Debug\net6.0\testEatonX.genruntimeconfig.cache
+C:\Users\emore\source\repos\testEatonX\testEatonX\obj\Debug\net6.0\ref\testEatonX.dll
